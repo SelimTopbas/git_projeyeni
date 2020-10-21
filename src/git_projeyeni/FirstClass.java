@@ -9,6 +9,7 @@ public class FirstClass {
 
 		
 		System.out.println("ucuncu commit 20:08");
+		System.out.println("dorduncu commit selimden saat 20:18");
 
 	}
 
